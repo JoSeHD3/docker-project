@@ -1,3 +1,6 @@
 # docker-project
 
-Docker integrated project with: mongodb database, spring boot java backend and react based frontend. 
+Docker project
+db: mongodb
+backend: spring boot
+frontend: react app
